@@ -1,7 +1,7 @@
 # Scope
 This repository contains the R code developed for the research project "Going from Offline to Online Change-Point Detection", conducted under the supervision of Dr. Andreas Anastasiou at the Department of Mathematics and Statistics, University of Cyprus, during the Fall Semester 2025.
 
-The project introduces Pseudo-Online Isolate-Detect (POID), an adaptation of the Isolate-Detect algorithm for sequential change-point detection.
+The project introduces Pseudo-Online Isolate-Detect (POID), an adaptation of the Isolate-Detect algorithm for online change-point detection.
 
 There are three main parts in this repository:
 
