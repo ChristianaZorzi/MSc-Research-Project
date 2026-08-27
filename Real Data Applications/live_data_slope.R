@@ -19,7 +19,7 @@ library(IDetect)
 library(readr)
 library(httr)
 library(jsonlite)
-api_key <- "b49444dc12b945e1b200e025f5cf2b72"
+api_key <- "TWELVE_DATA_API_KEY"
 symbol <- "AAPL"
 
 
